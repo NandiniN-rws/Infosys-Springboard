@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🟢 PCB Defect Detection & Classification System
 
 ## Internship Project
